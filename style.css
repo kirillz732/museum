@@ -41,7 +41,7 @@
 	color: #fff;
 	display: flex;
 	justify-content: center;
-	background: url('../images/6.jpg') no-repeat;
+	background: url('6.jpg') no-repeat;
 	background-size: 100%;
 	margin-bottom: 60px;
 }
