@@ -76,12 +76,10 @@ $(function() {
       ru: "Зал 4"
     },
     "EN": {
-      en:"EN",
-      ru: "RU"
+      en:"EN"
     },
     "RU": {
-      en:"EN",
-      ru: "RU"
+      en:"RU"
     }
   };
   var _t = $('body').translate({lang: "ru", t: t});
