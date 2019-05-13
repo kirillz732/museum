@@ -47,6 +47,18 @@ $(function() {
       en: "Military equipment",
       ru: "Военная техника"
     },
+     "Памятник Освобождения": {
+      en: "Liberation Monument",
+      ru: "Памятник Освобождения"
+    },
+     "Вечный огонь": {
+      en: "Eternal flame",
+      ru: "Вечный огонь"
+    },
+     "Сквер Держинского": {
+      ru: "Сквер Держинского",
+      en: "Derzhinsky square"
+    },
     "Зал 1": {
       en: "Holl 1",
       ru: "Зал 1"
@@ -65,11 +77,11 @@ $(function() {
     },
     "EN": {
       en:"EN",
-      pt: "RU"
+      ru: "RU"
     },
     "RU": {
       en:"RU",
-      pt: "EN"
+      ru: "EN"
     }
   };
   var _t = $('body').translate({lang: "ru", t: t});
