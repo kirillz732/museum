@@ -47,6 +47,8 @@
 }
 
 .title-text {
+	text-shadow: 3px 4px 6px #000;
+	//text-shadow: 1px 1px #000, 1px -1px #000, -1px 1px #000, -1px -1px #000, 3px 3px 6px rgba(0,0,0,.5);
 	font-family: pobeda;
 	font-size: 50px;
 	margin: 0 40px;
