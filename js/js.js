@@ -74,12 +74,6 @@ $(function() {
     "Зал 4": {
       en: "Holl 4",
       ru: "Зал 4"
-    },
-    "EN": {
-      en:"EN"
-    },
-    "RU": {
-      en:"RU"
     }
   };
   var _t = $('body').translate({lang: "ru", t: t});
