@@ -80,8 +80,8 @@ $(function() {
       ru: "RU"
     },
     "RU": {
-      en:"RU",
-      ru: "EN"
+      en:"EN",
+      ru: "RU"
     }
   };
   var _t = $('body').translate({lang: "ru", t: t});
