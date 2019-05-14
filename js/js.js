@@ -67,6 +67,14 @@ $(function() {
       en: "The fighting 65 the army",
       ru: "Боевые действия 65 армии"
     },
+     "Военная история края": {
+      en: "Military history of the region",
+      ru: "Военная история края"
+    },
+      "Начало ХХ В. до ВОВ": {
+      en: "The beginning of the twentieth Century until the second world war",
+      ru: "Начало ХХ В. до ВОВ"
+    },
     "Зал 3": {
       en: "Holl 3",
       ru: "Зал 3"
