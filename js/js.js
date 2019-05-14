@@ -60,12 +60,12 @@ $(function() {
       en: "Derzhinsky square"
     },
     "Зал 1": {
-      en: "Holl 1",
-      ru: "Зал 1"
+      en: "The story of the crossing of the Dnieper river",
+      ru: "История форсирования р.  Днепр "
     },
     "Зал 2": {
-      en: "Holl 2",
-      ru: "Зал 2"
+      en: "The fighting 65 the army",
+      ru: "Боевые действия 65 армии"
     },
     "Зал 3": {
       en: "Holl 3",
