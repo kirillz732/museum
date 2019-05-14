@@ -35,9 +35,9 @@ $(function() {
       en:"Top",
       ru: "Вверх"
     },
-    "Военные музеи Гомельской области": {
-      en: "Military museums of Gomel region",
-      ru: "Военные музеи Гомельской области"
+    "Военные мемориалы Гомельской области": {
+      en: "Military memorials of Gomel region",
+      ru: "Военные меморилаы Гомельской области"
     },
     "Аллея Героев г. Лоев": {
       en: "Alley of Heroes of Loew",
@@ -48,8 +48,8 @@ $(function() {
       ru: "Военная техника"
     },
      "Памятник Освобождения": {
-      en: "Liberation Monument",
-      ru: "Памятник Освобождения"
+      en: "Monument to soldiers-liberators",
+      ru: "Памятник воинам-освободителям"
     },
      "Вечный огонь": {
       en: "Eternal flame",
@@ -75,13 +75,17 @@ $(function() {
       en: "Holl 4",
       ru: "Зал 4"
     },
-    "EN": {
-      en:"EN",
-      ru: "RU"
+     "Памятники города Гомеля": {
+      en: "The monuments of the city of Gomel",
+      ru: "Памятники города Гомеля"
     },
-    "RU": {
-      en:"RU",
-      ru: "EN"
+    "Курган славы": {
+      en: "Mound of glory",
+      ru: "Курган славы"
+    },
+    "Военные мемориалы Гомельской области": {
+      en: "Military memorials of Gomel region",
+      ru: "Военные мемориалы Гомельской области"
     }
   };
   var _t = $('body').translate({lang: "ru", t: t});
