@@ -74,6 +74,7 @@ $(function() {
     "Зал 4": {
       en: "Holl 4",
       ru: "Зал 4"
+<<<<<<< HEAD
     },
      "Памятники города Гомеля": {
       en: "The monuments of the city of Gomel",
@@ -86,6 +87,8 @@ $(function() {
     "Военные мемориалы Гомельской области": {
       en: "Military memorials of Gomel region",
       ru: "Военные мемориалы Гомельской области"
+=======
+>>>>>>> ed4a710151d21956f2bf665a26d2228333b77a6f
     }
   };
   var _t = $('body').translate({lang: "ru", t: t});
