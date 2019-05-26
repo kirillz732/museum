@@ -95,6 +95,10 @@ $(function() {
       en: "Mound of glory",
       ru: "Курган славы"
     },
+    "Победа одна на всех": {
+      en: "Victory is one for all.",
+      ru: "Победа – одна на всех"
+    },
     "Военные мемориалы Гомельской области": {
       en: "Military memorials of Gomel region",
       ru: "Военные мемориалы Гомельской области"
